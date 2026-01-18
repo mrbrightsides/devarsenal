@@ -9,11 +9,17 @@
 
 **An Advanced Blockchain-Integrated IDE with AI-Powered Development Tools**
 
-Built for [LavaPunk Hackathon 2026](https://lavapunk.xyz) 🔥
+Built for [LavaPunk Hackathon 2026](https://lavapunk.devpost.com/) 🔥
 
-[Features](#-weapons--features) • [Demo](#-live-demo) • [Tech Stack](#-technology-stack) • [Installation](#-installation) • [Contact](#-contact)
+[🌐 Website](https://rantai.elpeef.com) • [📖 Documentation](./FEATURES.md) • [🏗️ Architecture](./ARCHITECTURE.md)
+
+[![Live Web App](https://img.shields.io/badge/Live%20Web-devarsenal.elpeef.com-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://devarsenal.elpeef.com)
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20Demo-devarsenal.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://devarsenal.streamlit.app)
 
 </div>
+
+> For security and IP protection, the full production code is currently hosted privately. This repository demonstrates the project structure and documentation.
 
 ---
 
@@ -427,7 +433,7 @@ This project was built for the **LavaPunk Hackathon 2026**, showcasing:
 
 ## 🌐 Live Demo
 
-**Production URL:** [Coming Soon]
+**Production URL:** [Dev Arsenal](https://devarsenal.elpeef.com/)
 
 **Features Enabled:**
 - Full Arsenal with all 12 weapons
